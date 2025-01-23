@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Oliso:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Oliso_jar</output-path>
+    <root id="archive" name="Oliso.jar">
+      <element id="module-output" name="Oliso" />
+    </root>
+  </artifact>
+</component>
